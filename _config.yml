@@ -1,4 +1,2 @@
 encoding: utf-8
-baseurl: /
-
-port: 12345
+baseurl: /myblog
